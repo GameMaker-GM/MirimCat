@@ -1,0 +1,45 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'garden_mesh_0041.obj'
+
+# Vertices (Count = 16)
+v -480 -160 0
+v -512 -160 0
+v -512 -128 0
+v -480 -128 0
+v -480 -192 0
+v -512 -192 0
+v -512 -160 0
+v -480 -160 0
+v -480 -224 0
+v -512 -224 0
+v -512 -192 0
+v -480 -192 0
+v -480 -256 0
+v -512 -256 0
+v -512 -224 0
+v -480 -224 0
+
+# Texture cooridinates (Count = 10)
+vt 0 0.75
+vt 0.1428571 0.75
+vt 0.1428571 1
+vt 0 1
+vt 0 0.5
+vt 0.1428571 0.5
+vt 0 0.25
+vt 0.1428571 0.25
+vt 0 0
+vt 0.1428571 0
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g garden_mesh_0041
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/5/1 6/6/1 7/2/1 8/1/1
+f 9/7/1 10/8/1 11/6/1 12/5/1
+f 13/9/1 14/10/1 15/8/1 16/7/1
+
